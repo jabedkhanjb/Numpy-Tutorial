@@ -27,4 +27,4 @@ NumPy is a Python library and is written partially in Python, but most of the pa
 
 The source code for NumPy is located at this github repository https://github.com/numpy/numpy </i>
 
-<a href="https://allmylinks.com/jabedkhanjb"><b>@jabedkhanjb</b></a>
+<a href="https://www.allmylinks.com/jabedkhanjb"><b>@jabedkhanjb</b></a>
