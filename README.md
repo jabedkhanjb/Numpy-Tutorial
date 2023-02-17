@@ -5,7 +5,7 @@ It also has functions for working in domain of linear algebra, fourier transform
 NumPy was created in 2005 by Travis Oliphant. It is an open source project and you can use it freely.
 NumPy stands for Numerical Python.
 
-<h3>Why Use NumPy?</h3>
+<h3>Why Use NumPy?</h3> Be
 
 In Python we have lists that serve the purpose of arrays, but they are slow to process.
 NumPy aims to provide an array object that is up to 50x faster than traditional Python lists.
